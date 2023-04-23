@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nikolas Paterakis 
+# 👋 Hi there, I'm Nikolas Paterakis 
 I am a professional software developer with a strong passion for programming. With a keen interest in exploring new technologies and expanding my skillset, I'm always excited to take on challenging projects that allow me to contribute to the world of software development. Through my work on GitHub, I aim to share my knowledge and help others learn more about microservices architecture, event-driven architecture, machine learning, and computer vision.
 
 ## 🎓 Education
