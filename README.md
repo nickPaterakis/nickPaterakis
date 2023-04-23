@@ -10,11 +10,7 @@ I hold an Integrated Master's degree in Informatics and Computer Engineering fro
 - 🚀 Kubernetes, Docker
 - 📨 Apache Kafka, RabbitMQ
 - 🍃 MongoDB, MySQL, Hibernate
-- 🛠️ Jenkins, Groovy, Git
-- 🧪 Spock Framework, Unit Testing
 - 🤖 Machine Learning, Computer Vision, Python
-- 🎯 Drools
-- ☁️ Google Cloud Platform (GCP)
 
 ## 📫 Contact Me
 Feel free to reach out if you'd like to collaborate or discuss a project idea! You can find me on [LinkedIn](https://www.linkedin.com/in/nikolas-paterakis-578695169/).
