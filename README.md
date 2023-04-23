@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello, I'm Nikolas Paterakis 
+I am a professional software developer with a strong passion for programming. With a keen interest in exploring new technologies and expanding my skillset, I'm always excited to take on challenging projects that allow me to contribute to the world of software development. Through my work on GitHub, I aim to share my knowledge and help others learn more about microservices architecture, event-driven architecture, machine learning, and computer vision.
 
-<!--
-**nickPaterakis/nickPaterakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+I hold an Integrated Master's degree in Informatics and Computer Engineering from the University of West Attica, which I completed in June 2021. 🎓
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
+- 🌱 Java, Spring Boot, Spring Framework
+- 💡 React, JavaScript, CSS, Sass HTML5
+- 🚀 Kubernetes, Docker
+- 📨 Apache Kafka, RabbitMQ
+- 🍃 MongoDB, MySQL, Hibernate
+- 🛠️ Jenkins, Groovy, Git
+- 🧪 Spock Framework, Unit Testing
+- 🤖 Machine Learning, Computer Vision, Python
+- 🎯 Drools
+- ☁️ Google Cloud Platform (GCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+Feel free to reach out if you'd like to collaborate or discuss a project idea! You can find me on [LinkedIn](https://www.linkedin.com/in/nikolas-paterakis-578695169/).
