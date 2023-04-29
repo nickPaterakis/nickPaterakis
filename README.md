@@ -2,7 +2,7 @@
 I am a professional software developer with a strong passion for programming. With a keen interest in exploring new technologies and expanding my skillset, I'm always excited to take on challenging projects that allow me to contribute to the world of software development. Through my work on GitHub, I aim to share my knowledge and help others learn more about microservices architecture, event-driven architecture, machine learning, and computer vision.
 
 ## 💻 Technologies & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
   <br>
